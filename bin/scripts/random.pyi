@@ -1,0 +1,3 @@
+﻿def getRandomNumber(max: int) -> int:
+    """Generate a random number up to max (exclusive)"""
+    ...

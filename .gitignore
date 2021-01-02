@@ -1,0 +1,6 @@
+/out
+/.vs
+__pycache__/
+/bin/*
+!/bin/python37.dll
+!/bin/scripts/
